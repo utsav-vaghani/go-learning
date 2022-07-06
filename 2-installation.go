@@ -2,7 +2,7 @@ package main
 
 /**
 
-	- Installation
+	Installation
 
 	- golang works on all modern platforms.
 

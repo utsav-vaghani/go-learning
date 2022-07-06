@@ -1,5 +1,5 @@
 /**
-	- Every single files of GO code contains this statement as in GO.
+	- Every single files of GO code contains this statement.
 	- packaging can be consider as directory structure which helps in writing modularized code.
 	- Each package contains some specific kind of sentimental functionalities, for instance `controllers`.
 	- A package can contains multiple sub-packages.

@@ -1,7 +1,7 @@
 package main
 
 /**
-	- GO Enviornment Variables
+	GO Enviornment Variables
 
 	- Once GO is installed, there are some variable which we might have to understand.
 
