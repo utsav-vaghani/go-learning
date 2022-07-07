@@ -27,4 +27,5 @@ package main
 		interface{}	nil
 		pointer		nil
 		struct		struct with zero value of fields
+		
 **/
