@@ -1,3 +1,4 @@
-# go-learning
+# go-learning (WIP)
 
-will be adding document for concurrency soon.
+This is NOTEBOOK for the GO learning from the scratch.
+Open for the suggestions :)
